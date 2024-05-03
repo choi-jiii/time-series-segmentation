@@ -1,0 +1,10 @@
+
+Iteration 0/100
+	 AFTER: length of cluster 0 => 1932
+	 AFTER: length of cluster 1 => 3695
+	 AFTER: length of cluster 2 => 4672
+
+Iteration 1/100
+	 AFTER: length of cluster 0 => 1932
+	 AFTER: length of cluster 1 => 3701
+	 AFTER: length of cluster 2 => 4666

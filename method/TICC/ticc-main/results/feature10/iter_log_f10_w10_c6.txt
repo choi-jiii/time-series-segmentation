@@ -1,0 +1,72 @@
+
+Iteration 0/100
+	 AFTER: length of cluster 0 => 1462
+	 AFTER: length of cluster 1 => 124
+	 AFTER: length of cluster 2 => 7532
+	 AFTER: length of cluster 3 => 460
+	 AFTER: length of cluster 4 => 586
+	 AFTER: length of cluster 5 => 126
+
+Iteration 1/100
+	 AFTER: length of cluster 0 => 1119
+	 AFTER: length of cluster 1 => 210
+	 AFTER: length of cluster 2 => 7300
+	 AFTER: length of cluster 3 => 718
+	 AFTER: length of cluster 4 => 691
+	 AFTER: length of cluster 5 => 252
+
+Iteration 2/100
+	 AFTER: length of cluster 0 => 805
+	 AFTER: length of cluster 1 => 464
+	 AFTER: length of cluster 2 => 6965
+	 AFTER: length of cluster 3 => 922
+	 AFTER: length of cluster 4 => 811
+	 AFTER: length of cluster 5 => 323
+
+Iteration 3/100
+	 AFTER: length of cluster 0 => 748
+	 AFTER: length of cluster 1 => 818
+	 AFTER: length of cluster 2 => 6608
+	 AFTER: length of cluster 3 => 966
+	 AFTER: length of cluster 4 => 825
+	 AFTER: length of cluster 5 => 325
+
+Iteration 4/100
+	 AFTER: length of cluster 0 => 707
+	 AFTER: length of cluster 1 => 1540
+	 AFTER: length of cluster 2 => 5879
+	 AFTER: length of cluster 3 => 1024
+	 AFTER: length of cluster 4 => 810
+	 AFTER: length of cluster 5 => 330
+
+Iteration 5/100
+	 AFTER: length of cluster 0 => 707
+	 AFTER: length of cluster 1 => 1860
+	 AFTER: length of cluster 2 => 5567
+	 AFTER: length of cluster 3 => 1024
+	 AFTER: length of cluster 4 => 810
+	 AFTER: length of cluster 5 => 322
+
+Iteration 6/100
+	 AFTER: length of cluster 0 => 707
+	 AFTER: length of cluster 1 => 2144
+	 AFTER: length of cluster 2 => 5282
+	 AFTER: length of cluster 3 => 1025
+	 AFTER: length of cluster 4 => 810
+	 AFTER: length of cluster 5 => 322
+
+Iteration 7/100
+	 AFTER: length of cluster 0 => 707
+	 AFTER: length of cluster 1 => 2382
+	 AFTER: length of cluster 2 => 5017
+	 AFTER: length of cluster 3 => 1024
+	 AFTER: length of cluster 4 => 811
+	 AFTER: length of cluster 5 => 349
+
+Iteration 8/100
+	 AFTER: length of cluster 0 => 707
+	 AFTER: length of cluster 1 => 2379
+	 AFTER: length of cluster 2 => 5018
+	 AFTER: length of cluster 3 => 1025
+	 AFTER: length of cluster 4 => 811
+	 AFTER: length of cluster 5 => 350

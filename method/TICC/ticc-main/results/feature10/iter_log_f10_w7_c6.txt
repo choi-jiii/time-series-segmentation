@@ -1,0 +1,57 @@
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+
+Iteration 0/100
+	 AFTER: length of cluster 0 => 399
+	 AFTER: length of cluster 1 => 7763
+	 AFTER: length of cluster 2 => 15
+	 AFTER: length of cluster 3 => 1253
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 843
+
+Iteration 1/100
+	 AFTER: length of cluster 0 => 301
+	 AFTER: length of cluster 1 => 7666
+	 AFTER: length of cluster 2 => 29
+	 AFTER: length of cluster 3 => 344
+	 AFTER: length of cluster 4 => 1066
+	 AFTER: length of cluster 5 => 887
+
+Iteration 2/100
+	 AFTER: length of cluster 0 => 255
+	 AFTER: length of cluster 1 => 7666
+	 AFTER: length of cluster 2 => 102
+	 AFTER: length of cluster 3 => 543
+	 AFTER: length of cluster 4 => 1028
+	 AFTER: length of cluster 5 => 699
+
+Iteration 3/100
+	 AFTER: length of cluster 0 => 263
+	 AFTER: length of cluster 1 => 7658
+	 AFTER: length of cluster 2 => 102
+	 AFTER: length of cluster 3 => 543
+	 AFTER: length of cluster 4 => 947
+	 AFTER: length of cluster 5 => 780
+
+Iteration 4/100
+	 AFTER: length of cluster 0 => 264
+	 AFTER: length of cluster 1 => 7654
+	 AFTER: length of cluster 2 => 102
+	 AFTER: length of cluster 3 => 543
+	 AFTER: length of cluster 4 => 935
+	 AFTER: length of cluster 5 => 795
+
+Iteration 5/100
+	 AFTER: length of cluster 0 => 265
+	 AFTER: length of cluster 1 => 7653
+	 AFTER: length of cluster 2 => 102
+	 AFTER: length of cluster 3 => 543
+	 AFTER: length of cluster 4 => 935
+	 AFTER: length of cluster 5 => 795
+
+Iteration 6/100
+	 AFTER: length of cluster 0 => 264
+	 AFTER: length of cluster 1 => 7653
+	 AFTER: length of cluster 2 => 102
+	 AFTER: length of cluster 3 => 543
+	 AFTER: length of cluster 4 => 936
+	 AFTER: length of cluster 5 => 795

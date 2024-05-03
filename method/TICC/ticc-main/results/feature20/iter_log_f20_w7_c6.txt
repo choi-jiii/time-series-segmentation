@@ -1,0 +1,65 @@
+	Cluster 1 has 0 elements. Reassigning from cluster 4
+
+Iteration 0/100
+	 AFTER: length of cluster 0 => 1717
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 3532
+	 AFTER: length of cluster 3 => 1871
+	 AFTER: length of cluster 4 => 352
+	 AFTER: length of cluster 5 => 2803
+
+Iteration 1/100
+	 AFTER: length of cluster 0 => 403
+	 AFTER: length of cluster 1 => 1488
+	 AFTER: length of cluster 2 => 3464
+	 AFTER: length of cluster 3 => 3147
+	 AFTER: length of cluster 4 => 295
+	 AFTER: length of cluster 5 => 1498
+
+Iteration 2/100
+	 AFTER: length of cluster 0 => 274
+	 AFTER: length of cluster 1 => 1517
+	 AFTER: length of cluster 2 => 3488
+	 AFTER: length of cluster 3 => 4007
+	 AFTER: length of cluster 4 => 383
+	 AFTER: length of cluster 5 => 626
+
+Iteration 3/100
+	 AFTER: length of cluster 0 => 280
+	 AFTER: length of cluster 1 => 1330
+	 AFTER: length of cluster 2 => 3505
+	 AFTER: length of cluster 3 => 3847
+	 AFTER: length of cluster 4 => 561
+	 AFTER: length of cluster 5 => 772
+
+Iteration 4/100
+	 AFTER: length of cluster 0 => 338
+	 AFTER: length of cluster 1 => 1196
+	 AFTER: length of cluster 2 => 3505
+	 AFTER: length of cluster 3 => 3762
+	 AFTER: length of cluster 4 => 642
+	 AFTER: length of cluster 5 => 852
+
+Iteration 5/100
+	 AFTER: length of cluster 0 => 311
+	 AFTER: length of cluster 1 => 1191
+	 AFTER: length of cluster 2 => 3502
+	 AFTER: length of cluster 3 => 3760
+	 AFTER: length of cluster 4 => 677
+	 AFTER: length of cluster 5 => 854
+
+Iteration 6/100
+	 AFTER: length of cluster 0 => 348
+	 AFTER: length of cluster 1 => 1192
+	 AFTER: length of cluster 2 => 3503
+	 AFTER: length of cluster 3 => 3838
+	 AFTER: length of cluster 4 => 637
+	 AFTER: length of cluster 5 => 777
+
+Iteration 7/100
+	 AFTER: length of cluster 0 => 348
+	 AFTER: length of cluster 1 => 1192
+	 AFTER: length of cluster 2 => 3503
+	 AFTER: length of cluster 3 => 3843
+	 AFTER: length of cluster 4 => 632
+	 AFTER: length of cluster 5 => 777

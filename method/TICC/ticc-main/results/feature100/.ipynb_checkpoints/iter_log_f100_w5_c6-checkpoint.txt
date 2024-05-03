@@ -1,0 +1,598 @@
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 0/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 1/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 2/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 3/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 4/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 5/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 6/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 7/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 8/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 9/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 10/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 11/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 12/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 13/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 14/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 15/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 16/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 17/100
+	 AFTER: length of cluster 0 => 10208
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 7
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 18/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 19/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 20/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 21/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 22/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 23/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 24/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 25/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 26/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 27/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 28/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 29/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 30/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 31/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 32/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 33/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 34/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 35/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 36/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 37/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 38/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 39/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 40/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 41/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 42/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 43/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 44/100
+	 AFTER: length of cluster 0 => 10195
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20
+	Cluster 1 has 0 elements. Reassigning from cluster 0
+	Cluster 2 has 0 elements. Reassigning from cluster 0
+	Cluster 3 has 0 elements. Reassigning from cluster 0
+	Cluster 4 has 0 elements. Reassigning from cluster 0
+	Cluster 5 has 0 elements. Reassigning from cluster 0
+
+Iteration 45/100
+	 AFTER: length of cluster 0 => 10214
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 20
+	 AFTER: length of cluster 3 => 1
+	 AFTER: length of cluster 4 => 20
+	 AFTER: length of cluster 5 => 20

@@ -1,0 +1,42 @@
+	Cluster 5 has 0 elements. Reassigning from cluster 4
+
+Iteration 0/100
+	 AFTER: length of cluster 0 => 1034
+	 AFTER: length of cluster 1 => 5683
+	 AFTER: length of cluster 2 => 615
+	 AFTER: length of cluster 3 => 2695
+	 AFTER: length of cluster 4 => 252
+	 AFTER: length of cluster 5 => 20
+
+Iteration 1/100
+	 AFTER: length of cluster 0 => 912
+	 AFTER: length of cluster 1 => 7361
+	 AFTER: length of cluster 2 => 713
+	 AFTER: length of cluster 3 => 1017
+	 AFTER: length of cluster 4 => 192
+	 AFTER: length of cluster 5 => 104
+	Cluster 3 has 0 elements. Reassigning from cluster 4
+
+Iteration 2/100
+	 AFTER: length of cluster 0 => 881
+	 AFTER: length of cluster 1 => 8378
+	 AFTER: length of cluster 2 => 744
+	 AFTER: length of cluster 3 => 20
+	 AFTER: length of cluster 4 => 172
+	 AFTER: length of cluster 5 => 104
+
+Iteration 3/100
+	 AFTER: length of cluster 0 => 811
+	 AFTER: length of cluster 1 => 8378
+	 AFTER: length of cluster 2 => 814
+	 AFTER: length of cluster 3 => 61
+	 AFTER: length of cluster 4 => 131
+	 AFTER: length of cluster 5 => 104
+
+Iteration 4/100
+	 AFTER: length of cluster 0 => 746
+	 AFTER: length of cluster 1 => 8378
+	 AFTER: length of cluster 2 => 879
+	 AFTER: length of cluster 3 => 61
+	 AFTER: length of cluster 4 => 131
+	 AFTER: length of cluster 5 => 104

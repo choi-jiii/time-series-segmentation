@@ -1,0 +1,65 @@
+
+Iteration 0/100
+	 AFTER: length of cluster 0 => 581
+	 AFTER: length of cluster 1 => 15
+	 AFTER: length of cluster 2 => 3518
+	 AFTER: length of cluster 3 => 431
+	 AFTER: length of cluster 4 => 1515
+	 AFTER: length of cluster 5 => 4235
+
+Iteration 1/100
+	 AFTER: length of cluster 0 => 765
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 3544
+	 AFTER: length of cluster 3 => 341
+	 AFTER: length of cluster 4 => 1338
+	 AFTER: length of cluster 5 => 4287
+
+Iteration 2/100
+	 AFTER: length of cluster 0 => 863
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 3538
+	 AFTER: length of cluster 3 => 411
+	 AFTER: length of cluster 4 => 1255
+	 AFTER: length of cluster 5 => 4208
+
+Iteration 3/100
+	 AFTER: length of cluster 0 => 982
+	 AFTER: length of cluster 1 => 20
+	 AFTER: length of cluster 2 => 3530
+	 AFTER: length of cluster 3 => 480
+	 AFTER: length of cluster 4 => 1150
+	 AFTER: length of cluster 5 => 4133
+
+Iteration 4/100
+	 AFTER: length of cluster 0 => 1080
+	 AFTER: length of cluster 1 => 16
+	 AFTER: length of cluster 2 => 3506
+	 AFTER: length of cluster 3 => 481
+	 AFTER: length of cluster 4 => 1079
+	 AFTER: length of cluster 5 => 4133
+
+Iteration 5/100
+	 AFTER: length of cluster 0 => 1128
+	 AFTER: length of cluster 1 => 16
+	 AFTER: length of cluster 2 => 3500
+	 AFTER: length of cluster 3 => 481
+	 AFTER: length of cluster 4 => 1039
+	 AFTER: length of cluster 5 => 4131
+
+Iteration 6/100
+	 AFTER: length of cluster 0 => 1176
+	 AFTER: length of cluster 1 => 12
+	 AFTER: length of cluster 2 => 3496
+	 AFTER: length of cluster 3 => 480
+	 AFTER: length of cluster 4 => 1001
+	 AFTER: length of cluster 5 => 4130
+
+Iteration 7/100
+	 AFTER: length of cluster 0 => 1176
+	 AFTER: length of cluster 1 => 12
+	 AFTER: length of cluster 2 => 3494
+	 AFTER: length of cluster 3 => 480
+	 AFTER: length of cluster 4 => 1008
+	 AFTER: length of cluster 5 => 4125
+time :  115.46643710136414
